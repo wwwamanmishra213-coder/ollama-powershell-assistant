@@ -1,0 +1,14 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backups created by CodeAssistant
+*.bak_*
+
+# Environment & OS files
+.env
+.env.*
+Thumbs.db
+Desktop.ini
+.DS_Store

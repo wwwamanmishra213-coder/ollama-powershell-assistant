@@ -1,0 +1,9 @@
+{
+  "system": "Protected Production Deployment & License Matrix",
+  "version": "1.0.0",
+  "note": "This directory is NEVER synced to the public shadow repository.",
+  "access_control": {
+    "tier": "enterprise_private",
+    "deploy_gate": "authorized_client_key_required"
+  }
+}
